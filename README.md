@@ -1,2 +1,5 @@
-# aulasrocketseat
-Aulas da Rocket Seat
+# Aulas RocketSeat
+Aulas da Rocket Seat 
+
+----
+Matheus K.
